@@ -11,3 +11,7 @@
 2015-12-07 12:15:37,821 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sipgm400\wp\pcml01\src\main\resources
 2015-12-07 12:15:37,828 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-12-07 12:15:37,829 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sipgm400\wp\pcml01\src\test\resources
+2015-12-07 12:38:55,461 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 12:38:55,462 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sipgm400\wp\pcml01\src\main\resources
+2015-12-07 12:38:55,464 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 12:38:55,467 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sipgm400\wp\pcml01\src\test\resources
