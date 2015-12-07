@@ -1,0 +1,13 @@
+2015-12-07 12:15:24,396 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\sipgm400\wp\pcml01\pom.xml
+2015-12-07 12:15:25,625 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sipgm:pcml01:0.0.1-SNAPSHOT @ C:\sipgm400\wp\pcml01\pom.xml.
+2015-12-07 12:15:26,727 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pcml01/src/main/java
+2015-12-07 12:15:26,739 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pcml01/src/test/java
+2015-12-07 12:15:27,381 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2015-12-07 12:15:28,181 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 12:15:28,182 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sipgm400\wp\pcml01\src\main\resources
+2015-12-07 12:15:28,186 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 12:15:28,186 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sipgm400\wp\pcml01\src\test\resources
+2015-12-07 12:15:37,815 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 12:15:37,821 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sipgm400\wp\pcml01\src\main\resources
+2015-12-07 12:15:37,828 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 12:15:37,829 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sipgm400\wp\pcml01\src\test\resources

@@ -1,3 +1,8 @@
+#Directorys [alo]
+.metadata
+.RemoteSystemsTempFiles
+
+
 # Object files
 *.o
 *.ko
