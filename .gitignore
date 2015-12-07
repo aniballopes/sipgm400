@@ -1,6 +1,6 @@
 #Directorys [alo]
-.metadata/*
-.RemoteSystemsTempFiles
+.metadata/
+.RemoteSystemsTempFiles/
 
 
 # Object files
